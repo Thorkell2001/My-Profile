@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -127,6 +126,4 @@
     <p>&copy; 2024 Vincent Geli. All rights reserved.</p>
 </footer>
 </html>
-    <p>&copy; 2024 Vincent Geli. All rights reserved.</p>
-</footer>
-</html>
+ 
