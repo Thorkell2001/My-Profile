@@ -68,7 +68,7 @@
 </head>
 <body>
     <div class="background-video">
-        <iframe src= "https://gifer.com/embed/2swA" width=100% height=100% frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+        <iframe src="https://gifer.com/embed/2swA" width=100% height=100% frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
     </div>
     <div class="container">
         <h1>My Profile</h1>
@@ -127,6 +127,9 @@
     </div>
 </body>
 <footer> 
+    <p>&copy; 2024 Vincent Geli. All rights reserved.</p>
+</footer>
+</html>
     <p>&copy; 2024 Vincent Geli. All rights reserved.</p>
 </footer>
 </html>
