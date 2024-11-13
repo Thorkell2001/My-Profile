@@ -67,9 +67,6 @@
     </style>
 </head>
 <body>
-    <div class="background-video">
-        <iframe src="https://gifer.com/embed/2swA" width=100% height=100% frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com"></a></p>
-    </div>
     <div class="container">
         <h1>My Profile</h1>
         <div class="section">
